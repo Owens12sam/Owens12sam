@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Owens12sam
 - 👀 I’m interested in system analysis and design 
 - 🌱 I’m currently learning cybersecurity 
-- 📫 How to reach me via email 📧 owenbird020@gmail.com
+- 📫 How to reach me via email 📧 owensam291@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I break and fix things-sometimes in that order 
 
